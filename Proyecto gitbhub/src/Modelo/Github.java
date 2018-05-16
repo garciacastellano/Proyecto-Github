@@ -13,6 +13,7 @@ public class Github {
 
     public Github() {
         System.out.println("En el centro podemos encontrar diversas actividades");
+        System.out.println("Informatica, cocina, etc");
     }
     
 }
