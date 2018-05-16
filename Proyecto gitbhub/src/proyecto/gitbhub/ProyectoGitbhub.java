@@ -20,7 +20,7 @@ public class ProyectoGitbhub {
         System.out.println("Centro Jose cabrera");
         System.out.println("El centro se encuentra en trebujena");
         System.out.println("El horario es de mañana");
-        System.out.println("Hay grados en informatica, cocina, etc");
+        
     }
     
 }
