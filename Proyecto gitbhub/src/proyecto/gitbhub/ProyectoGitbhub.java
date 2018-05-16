@@ -19,6 +19,7 @@ public class ProyectoGitbhub {
         System.out.println("Bienvenido a la nueva pagina del centro");
         System.out.println("Centro Jose cabrera");
         System.out.println("El centro se encuentra en trebujena");
+        System.out.println("El horario es de mañana");
     }
     
 }
